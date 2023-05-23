@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: rgba(249, 248, 248, 0.203);
+}
+p{
+    font-size: 25px;
+}
+.button{
+    font-size: 10px;
+    color: blueviolet;
+}
